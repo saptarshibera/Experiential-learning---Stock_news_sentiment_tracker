@@ -1,0 +1,301 @@
+headline_id,date,company,source,headline
+NH0001,2025-07-12,Dhruv Bank,Market Wire (fictional),Dhruv Bank appoints new independent director
+NH0002,2025-11-24,Bhavya Pharma,Business Daily (fictional),Rating agency downgrades Bhavya Pharma debt outlook to negative
+NH0003,2025-10-10,Bhavya Pharma,Finance Times India (fictional),Fire at Bhavya Pharma plant halts production for two weeks
+NH0004,2025-06-06,Chetak Motors,Finance Times India (fictional),Fire at Chetak Motors plant halts production for two weeks
+NH0005,2025-04-20,Ekta FMCG,Finance Times India (fictional),Ekta FMCG Q1 net profit jumps 8% on strong demand
+NH0006,2025-05-17,Dhruv Bank,Finance Times India (fictional),Rating agency downgrades Dhruv Bank debt outlook to negative
+NH0007,2025-08-26,Jyoti Retail,Finance Times India (fictional),Rating agency downgrades Jyoti Retail debt outlook to negative
+NH0008,2025-05-28,Chetak Motors,Market Wire (fictional),Chetak Motors to acquire rival in all-cash deal to expand market share
+NH0009,2026-01-26,Indra Telecom,Business Daily (fictional),Indra Telecom appoints new independent director
+NH0010,2025-10-08,Chetak Motors,Finance Times India (fictional),SEBI issues show-cause notice to Chetak Motors over disclosure lapses
+NH0011,2025-06-21,Jyoti Retail,Market Wire (fictional),Jyoti Retail Q3 net profit jumps 52% on strong demand
+NH0012,2025-10-09,Ekta FMCG,Market Wire (fictional),"Ekta FMCG wins Rs 1,000 crore order from state government"
+NH0013,2026-03-17,Aarna Infotech,Business Daily (fictional),Aarna Infotech Q1 net profit jumps 48% on strong demand
+NH0014,2025-06-05,Ganga Power,Finance Times India (fictional),Ganga Power shares trade flat ahead of expiry
+NH0015,2025-09-09,Himal Cement,Business Daily (fictional),Himal Cement Q3 profit falls 15% as costs surge
+NH0016,2026-03-18,Chetak Motors,Finance Times India (fictional),"Brokerage upgrades Chetak Motors to Buy, raises target price"
+NH0017,2025-09-23,Aarna Infotech,Business Daily (fictional),"Aarna Infotech wins Rs 10,000 crore order from state government"
+NH0018,2026-03-05,Ganga Power,Market Wire (fictional),Rating agency downgrades Ganga Power debt outlook to negative
+NH0019,2025-08-02,Ganga Power,Business Daily (fictional),Fire at Ganga Power plant halts production for two weeks
+NH0020,2025-07-06,Chetak Motors,Finance Times India (fictional),Chetak Motors Q1 net profit jumps 55% on strong demand
+NH0021,2025-07-07,Ekta FMCG,Business Daily (fictional),Fire at Ekta FMCG plant halts production for two weeks
+NH0022,2026-02-15,Jyoti Retail,Business Daily (fictional),Jyoti Retail Q4 profit falls 55% as costs surge
+NH0023,2026-01-20,Dhruv Bank,Finance Times India (fictional),Dhruv Bank shares trade flat ahead of expiry
+NH0024,2026-02-24,Indra Telecom,Finance Times India (fictional),Rating agency downgrades Indra Telecom debt outlook to negative
+NH0025,2025-11-19,Bhavya Pharma,Market Wire (fictional),Bhavya Pharma to acquire rival in all-cash deal to expand market share
+NH0026,2025-09-24,Bhavya Pharma,Market Wire (fictional),Bhavya Pharma shares trade flat ahead of expiry
+NH0027,2025-12-04,Aarna Infotech,Finance Times India (fictional),Rating agency downgrades Aarna Infotech debt outlook to negative
+NH0028,2026-01-29,Chetak Motors,Finance Times India (fictional),Chetak Motors appoints new independent director
+NH0029,2025-06-28,Himal Cement,Market Wire (fictional),Himal Cement CFO resigns citing personal reasons
+NH0030,2025-07-04,Jyoti Retail,Finance Times India (fictional),Jyoti Retail appoints new independent director
+NH0031,2025-07-15,Himal Cement,Finance Times India (fictional),"Himal Cement wins Rs 6,000 crore order from state government"
+NH0032,2025-07-15,Ganga Power,Market Wire (fictional),Ganga Power Q4 net profit jumps 38% on strong demand
+NH0033,2025-11-01,Chetak Motors,Business Daily (fictional),Chetak Motors Q2 profit falls 41% as costs surge
+NH0034,2025-06-07,Ekta FMCG,Business Daily (fictional),Ekta FMCG to acquire rival in all-cash deal to expand market share
+NH0035,2026-02-15,Aarna Infotech,Business Daily (fictional),Aarna Infotech completes routine plant maintenance shutdown
+NH0036,2025-11-14,Jyoti Retail,Market Wire (fictional),Jyoti Retail appoints new independent director
+NH0037,2026-02-17,Bhavya Pharma,Market Wire (fictional),Fire at Bhavya Pharma plant halts production for two weeks
+NH0038,2025-09-13,Ganga Power,Finance Times India (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0039,2026-03-23,Ekta FMCG,Business Daily (fictional),Fire at Ekta FMCG plant halts production for two weeks
+NH0040,2025-04-26,Ganga Power,Finance Times India (fictional),"Ganga Power wins Rs 3,000 crore order from state government"
+NH0041,2025-10-21,Kiran Steel,Market Wire (fictional),Kiran Steel CFO resigns citing personal reasons
+NH0042,2025-09-14,Indra Telecom,Finance Times India (fictional),Indra Telecom Q4 net profit jumps 14% on strong demand
+NH0043,2026-03-21,Kiran Steel,Finance Times India (fictional),Kiran Steel CFO resigns citing personal reasons
+NH0044,2025-06-07,Dhruv Bank,Finance Times India (fictional),"Dhruv Bank wins Rs 11,000 crore order from state government"
+NH0045,2025-11-30,Jyoti Retail,Market Wire (fictional),"Jyoti Retail wins Rs 8,000 crore order from state government"
+NH0046,2026-02-16,Himal Cement,Business Daily (fictional),"Himal Cement launches new product line, shares rise in early trade"
+NH0047,2025-09-28,Ekta FMCG,Business Daily (fictional),"Ekta FMCG wins Rs 4,000 crore order from state government"
+NH0048,2025-05-17,Jyoti Retail,Business Daily (fictional),Jyoti Retail to acquire rival in all-cash deal to expand market share
+NH0049,2026-01-05,Indra Telecom,Finance Times India (fictional),Indra Telecom CFO resigns citing personal reasons
+NH0050,2025-08-24,Kiran Steel,Business Daily (fictional),Kiran Steel to hold board meeting on 25 March to consider results
+NH0051,2025-12-09,Kiran Steel,Business Daily (fictional),Kiran Steel CFO resigns citing personal reasons
+NH0052,2025-11-06,Dhruv Bank,Business Daily (fictional),Dhruv Bank CFO resigns citing personal reasons
+NH0053,2026-01-08,Ganga Power,Finance Times India (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0054,2025-10-14,Dhruv Bank,Finance Times India (fictional),Rating agency downgrades Dhruv Bank debt outlook to negative
+NH0055,2025-09-05,Bhavya Pharma,Finance Times India (fictional),Bhavya Pharma Q3 profit falls 11% as costs surge
+NH0056,2025-05-05,Dhruv Bank,Business Daily (fictional),Fire at Dhruv Bank plant halts production for two weeks
+NH0057,2026-02-25,Aarna Infotech,Market Wire (fictional),Aarna Infotech to hold board meeting on 15 March to consider results
+NH0058,2026-01-08,Aarna Infotech,Business Daily (fictional),Aarna Infotech Q2 net profit jumps 19% on strong demand
+NH0059,2025-05-08,Chetak Motors,Business Daily (fictional),Chetak Motors to acquire rival in all-cash deal to expand market share
+NH0060,2025-08-22,Chetak Motors,Finance Times India (fictional),"Chetak Motors wins Rs 4,000 crore order from state government"
+NH0061,2025-12-22,Dhruv Bank,Finance Times India (fictional),Dhruv Bank Q1 profit falls 13% as costs surge
+NH0062,2025-04-19,Chetak Motors,Market Wire (fictional),"Chetak Motors wins Rs 7,000 crore order from state government"
+NH0063,2026-03-05,Kiran Steel,Business Daily (fictional),Kiran Steel appoints new independent director
+NH0064,2025-08-22,Jyoti Retail,Finance Times India (fictional),Jyoti Retail appoints new independent director
+NH0065,2026-01-07,Kiran Steel,Business Daily (fictional),Kiran Steel to acquire rival in all-cash deal to expand market share
+NH0066,2025-11-07,Ganga Power,Business Daily (fictional),Ganga Power to hold board meeting on 18 October to consider results
+NH0067,2025-10-08,Chetak Motors,Business Daily (fictional),Chetak Motors Q2 profit falls 14% as costs surge
+NH0068,2025-09-20,Indra Telecom,Market Wire (fictional),Indra Telecom shares trade flat ahead of expiry
+NH0069,2025-11-07,Kiran Steel,Market Wire (fictional),"Kiran Steel launches new product line, shares rise in early trade"
+NH0070,2025-05-21,Himal Cement,Business Daily (fictional),Himal Cement appoints new independent director
+NH0071,2026-01-06,Indra Telecom,Finance Times India (fictional),Indra Telecom CFO resigns citing personal reasons
+NH0072,2025-12-26,Ekta FMCG,Business Daily (fictional),Ekta FMCG CFO resigns citing personal reasons
+NH0073,2025-07-08,Aarna Infotech,Finance Times India (fictional),Rating agency downgrades Aarna Infotech debt outlook to negative
+NH0074,2025-09-12,Kiran Steel,Market Wire (fictional),Kiran Steel to acquire rival in all-cash deal to expand market share
+NH0075,2026-01-15,Bhavya Pharma,Finance Times India (fictional),Fire at Bhavya Pharma plant halts production for two weeks
+NH0076,2025-05-16,Ganga Power,Market Wire (fictional),"Ganga Power wins Rs 9,000 crore order from state government"
+NH0077,2025-08-13,Ganga Power,Finance Times India (fictional),SEBI issues show-cause notice to Ganga Power over disclosure lapses
+NH0078,2026-03-10,Chetak Motors,Business Daily (fictional),Rating agency downgrades Chetak Motors debt outlook to negative
+NH0079,2025-05-27,Kiran Steel,Business Daily (fictional),Kiran Steel to hold board meeting on 10 February to consider results
+NH0080,2025-12-25,Kiran Steel,Finance Times India (fictional),Kiran Steel shares trade flat ahead of expiry
+NH0081,2026-01-25,Chetak Motors,Finance Times India (fictional),"Chetak Motors wins Rs 4,000 crore order from state government"
+NH0082,2025-07-01,Indra Telecom,Finance Times India (fictional),Indra Telecom to acquire rival in all-cash deal to expand market share
+NH0083,2026-03-01,Kiran Steel,Market Wire (fictional),"Kiran Steel wins Rs 3,000 crore order from state government"
+NH0084,2025-06-13,Kiran Steel,Business Daily (fictional),Kiran Steel shares trade flat ahead of expiry
+NH0085,2025-10-10,Jyoti Retail,Market Wire (fictional),Jyoti Retail to acquire rival in all-cash deal to expand market share
+NH0086,2025-06-05,Himal Cement,Finance Times India (fictional),"Himal Cement wins Rs 8,000 crore order from state government"
+NH0087,2025-05-23,Indra Telecom,Market Wire (fictional),Indra Telecom completes routine plant maintenance shutdown
+NH0088,2026-03-07,Bhavya Pharma,Finance Times India (fictional),Bhavya Pharma Q2 profit falls 43% as costs surge
+NH0089,2025-12-24,Chetak Motors,Market Wire (fictional),Chetak Motors appoints new independent director
+NH0090,2025-04-21,Chetak Motors,Market Wire (fictional),"Brokerage upgrades Chetak Motors to Buy, raises target price"
+NH0091,2025-04-24,Himal Cement,Finance Times India (fictional),Himal Cement appoints new independent director
+NH0092,2026-01-10,Ekta FMCG,Market Wire (fictional),SEBI issues show-cause notice to Ekta FMCG over disclosure lapses
+NH0093,2025-12-11,Ganga Power,Market Wire (fictional),Ganga Power to acquire rival in all-cash deal to expand market share
+NH0094,2025-09-14,Bhavya Pharma,Finance Times India (fictional),Bhavya Pharma Q3 net profit jumps 31% on strong demand
+NH0095,2026-02-16,Indra Telecom,Market Wire (fictional),"Brokerage upgrades Indra Telecom to Buy, raises target price"
+NH0096,2025-04-06,Chetak Motors,Finance Times India (fictional),Chetak Motors Q2 profit falls 10% as costs surge
+NH0097,2025-08-15,Himal Cement,Market Wire (fictional),"Brokerage upgrades Himal Cement to Buy, raises target price"
+NH0098,2025-10-12,Kiran Steel,Business Daily (fictional),Kiran Steel to hold board meeting on 21 December to consider results
+NH0099,2025-08-11,Chetak Motors,Business Daily (fictional),Chetak Motors to hold board meeting on 24 December to consider results
+NH0100,2026-01-22,Indra Telecom,Market Wire (fictional),"Indra Telecom launches new product line, shares rise in early trade"
+NH0101,2025-12-17,Dhruv Bank,Market Wire (fictional),Dhruv Bank appoints new independent director
+NH0102,2025-05-15,Ganga Power,Market Wire (fictional),Ganga Power Q1 net profit jumps 40% on strong demand
+NH0103,2026-03-20,Kiran Steel,Business Daily (fictional),"Brokerage upgrades Kiran Steel to Buy, raises target price"
+NH0104,2026-01-07,Aarna Infotech,Business Daily (fictional),Rating agency downgrades Aarna Infotech debt outlook to negative
+NH0105,2025-07-28,Aarna Infotech,Business Daily (fictional),Aarna Infotech to hold board meeting on 08 October to consider results
+NH0106,2025-05-25,Jyoti Retail,Market Wire (fictional),Jyoti Retail CFO resigns citing personal reasons
+NH0107,2026-01-26,Chetak Motors,Business Daily (fictional),"Chetak Motors wins Rs 1,000 crore order from state government"
+NH0108,2025-06-28,Jyoti Retail,Market Wire (fictional),Jyoti Retail to acquire rival in all-cash deal to expand market share
+NH0109,2025-11-12,Aarna Infotech,Business Daily (fictional),"Aarna Infotech wins Rs 1,000 crore order from state government"
+NH0110,2026-03-15,Ganga Power,Market Wire (fictional),"Ganga Power launches new product line, shares rise in early trade"
+NH0111,2025-04-12,Indra Telecom,Business Daily (fictional),Indra Telecom shares trade flat ahead of expiry
+NH0112,2026-01-12,Chetak Motors,Market Wire (fictional),Chetak Motors appoints new independent director
+NH0113,2025-06-19,Ekta FMCG,Finance Times India (fictional),Fire at Ekta FMCG plant halts production for two weeks
+NH0114,2025-04-18,Ganga Power,Finance Times India (fictional),"Ganga Power launches new product line, shares rise in early trade"
+NH0115,2025-04-18,Bhavya Pharma,Finance Times India (fictional),Bhavya Pharma appoints new independent director
+NH0116,2025-05-28,Bhavya Pharma,Market Wire (fictional),SEBI issues show-cause notice to Bhavya Pharma over disclosure lapses
+NH0117,2025-07-31,Jyoti Retail,Business Daily (fictional),"Jyoti Retail wins Rs 5,000 crore order from state government"
+NH0118,2025-06-28,Chetak Motors,Business Daily (fictional),Chetak Motors Q2 profit falls 42% as costs surge
+NH0119,2026-02-12,Kiran Steel,Finance Times India (fictional),"Brokerage upgrades Kiran Steel to Buy, raises target price"
+NH0120,2025-04-03,Indra Telecom,Market Wire (fictional),Indra Telecom to hold board meeting on 25 March to consider results
+NH0121,2025-08-25,Ekta FMCG,Business Daily (fictional),Ekta FMCG to hold board meeting on 04 February to consider results
+NH0122,2026-01-30,Ekta FMCG,Business Daily (fictional),"Ekta FMCG wins Rs 5,000 crore order from state government"
+NH0123,2025-04-16,Himal Cement,Market Wire (fictional),SEBI issues show-cause notice to Himal Cement over disclosure lapses
+NH0124,2026-02-22,Chetak Motors,Business Daily (fictional),Chetak Motors CFO resigns citing personal reasons
+NH0125,2025-08-17,Chetak Motors,Market Wire (fictional),"Chetak Motors launches new product line, shares rise in early trade"
+NH0126,2026-01-26,Himal Cement,Business Daily (fictional),Rating agency downgrades Himal Cement debt outlook to negative
+NH0127,2026-02-24,Ganga Power,Finance Times India (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0128,2026-03-09,Ganga Power,Market Wire (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0129,2025-08-11,Ekta FMCG,Market Wire (fictional),Fire at Ekta FMCG plant halts production for two weeks
+NH0130,2025-05-12,Dhruv Bank,Market Wire (fictional),Rating agency downgrades Dhruv Bank debt outlook to negative
+NH0131,2025-07-22,Indra Telecom,Market Wire (fictional),SEBI issues show-cause notice to Indra Telecom over disclosure lapses
+NH0132,2025-06-08,Jyoti Retail,Market Wire (fictional),Jyoti Retail completes routine plant maintenance shutdown
+NH0133,2025-06-11,Bhavya Pharma,Finance Times India (fictional),"Bhavya Pharma wins Rs 11,000 crore order from state government"
+NH0134,2025-09-25,Bhavya Pharma,Business Daily (fictional),Bhavya Pharma shares trade flat ahead of expiry
+NH0135,2025-10-19,Himal Cement,Business Daily (fictional),"Himal Cement wins Rs 3,000 crore order from state government"
+NH0136,2025-11-03,Kiran Steel,Finance Times India (fictional),"Kiran Steel wins Rs 6,000 crore order from state government"
+NH0137,2025-06-19,Ekta FMCG,Business Daily (fictional),Ekta FMCG to acquire rival in all-cash deal to expand market share
+NH0138,2025-08-26,Indra Telecom,Market Wire (fictional),Indra Telecom appoints new independent director
+NH0139,2026-03-05,Himal Cement,Market Wire (fictional),Himal Cement to acquire rival in all-cash deal to expand market share
+NH0140,2026-03-21,Dhruv Bank,Market Wire (fictional),Dhruv Bank Q4 profit falls 25% as costs surge
+NH0141,2025-05-09,Ganga Power,Market Wire (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0142,2025-05-10,Indra Telecom,Business Daily (fictional),SEBI issues show-cause notice to Indra Telecom over disclosure lapses
+NH0143,2026-02-03,Dhruv Bank,Finance Times India (fictional),SEBI issues show-cause notice to Dhruv Bank over disclosure lapses
+NH0144,2025-05-08,Ganga Power,Finance Times India (fictional),"Ganga Power launches new product line, shares rise in early trade"
+NH0145,2026-01-24,Aarna Infotech,Finance Times India (fictional),Aarna Infotech CFO resigns citing personal reasons
+NH0146,2025-04-02,Himal Cement,Finance Times India (fictional),SEBI issues show-cause notice to Himal Cement over disclosure lapses
+NH0147,2026-02-14,Bhavya Pharma,Market Wire (fictional),Bhavya Pharma Q3 net profit jumps 41% on strong demand
+NH0148,2025-10-29,Chetak Motors,Business Daily (fictional),Chetak Motors to acquire rival in all-cash deal to expand market share
+NH0149,2025-05-15,Indra Telecom,Finance Times India (fictional),SEBI issues show-cause notice to Indra Telecom over disclosure lapses
+NH0150,2026-01-28,Chetak Motors,Market Wire (fictional),SEBI issues show-cause notice to Chetak Motors over disclosure lapses
+NH0151,2025-10-10,Bhavya Pharma,Business Daily (fictional),Bhavya Pharma Q4 profit falls 50% as costs surge
+NH0152,2025-08-11,Jyoti Retail,Finance Times India (fictional),Jyoti Retail shares trade flat ahead of expiry
+NH0153,2025-04-05,Kiran Steel,Business Daily (fictional),"Brokerage upgrades Kiran Steel to Buy, raises target price"
+NH0154,2025-07-22,Chetak Motors,Business Daily (fictional),Rating agency downgrades Chetak Motors debt outlook to negative
+NH0155,2025-06-14,Bhavya Pharma,Market Wire (fictional),Rating agency downgrades Bhavya Pharma debt outlook to negative
+NH0156,2026-01-10,Indra Telecom,Finance Times India (fictional),Fire at Indra Telecom plant halts production for two weeks
+NH0157,2025-06-07,Ekta FMCG,Finance Times India (fictional),"Ekta FMCG launches new product line, shares rise in early trade"
+NH0158,2025-05-21,Himal Cement,Market Wire (fictional),"Himal Cement wins Rs 5,000 crore order from state government"
+NH0159,2026-02-11,Dhruv Bank,Finance Times India (fictional),"Brokerage upgrades Dhruv Bank to Buy, raises target price"
+NH0160,2026-03-14,Ganga Power,Market Wire (fictional),Ganga Power CFO resigns citing personal reasons
+NH0161,2025-09-14,Aarna Infotech,Business Daily (fictional),"Brokerage upgrades Aarna Infotech to Buy, raises target price"
+NH0162,2025-08-03,Bhavya Pharma,Market Wire (fictional),Rating agency downgrades Bhavya Pharma debt outlook to negative
+NH0163,2025-05-25,Jyoti Retail,Market Wire (fictional),Jyoti Retail completes routine plant maintenance shutdown
+NH0164,2025-11-27,Dhruv Bank,Business Daily (fictional),Dhruv Bank to acquire rival in all-cash deal to expand market share
+NH0165,2025-05-24,Himal Cement,Market Wire (fictional),Himal Cement completes routine plant maintenance shutdown
+NH0166,2026-02-17,Indra Telecom,Market Wire (fictional),Indra Telecom Q2 net profit jumps 20% on strong demand
+NH0167,2025-07-28,Indra Telecom,Market Wire (fictional),Indra Telecom shares trade flat ahead of expiry
+NH0168,2025-06-28,Ganga Power,Finance Times India (fictional),Ganga Power to hold board meeting on 30 September to consider results
+NH0169,2025-11-17,Aarna Infotech,Market Wire (fictional),Rating agency downgrades Aarna Infotech debt outlook to negative
+NH0170,2025-10-02,Indra Telecom,Business Daily (fictional),Indra Telecom to acquire rival in all-cash deal to expand market share
+NH0171,2026-02-23,Chetak Motors,Business Daily (fictional),Chetak Motors to acquire rival in all-cash deal to expand market share
+NH0172,2025-10-06,Indra Telecom,Finance Times India (fictional),"Indra Telecom wins Rs 5,000 crore order from state government"
+NH0173,2026-01-10,Jyoti Retail,Market Wire (fictional),Jyoti Retail to acquire rival in all-cash deal to expand market share
+NH0174,2025-09-27,Dhruv Bank,Market Wire (fictional),Dhruv Bank CFO resigns citing personal reasons
+NH0175,2025-05-02,Ekta FMCG,Market Wire (fictional),Ekta FMCG Q3 profit falls 10% as costs surge
+NH0176,2025-07-08,Himal Cement,Market Wire (fictional),Himal Cement Q2 net profit jumps 9% on strong demand
+NH0177,2025-07-14,Ekta FMCG,Business Daily (fictional),Ekta FMCG to hold board meeting on 09 December to consider results
+NH0178,2026-02-06,Jyoti Retail,Business Daily (fictional),Jyoti Retail CFO resigns citing personal reasons
+NH0179,2026-03-02,Dhruv Bank,Market Wire (fictional),Dhruv Bank to acquire rival in all-cash deal to expand market share
+NH0180,2025-04-20,Indra Telecom,Market Wire (fictional),Indra Telecom completes routine plant maintenance shutdown
+NH0181,2025-10-29,Chetak Motors,Market Wire (fictional),SEBI issues show-cause notice to Chetak Motors over disclosure lapses
+NH0182,2025-12-19,Bhavya Pharma,Business Daily (fictional),Bhavya Pharma CFO resigns citing personal reasons
+NH0183,2025-09-07,Kiran Steel,Market Wire (fictional),Fire at Kiran Steel plant halts production for two weeks
+NH0184,2025-06-22,Himal Cement,Business Daily (fictional),Himal Cement to hold board meeting on 03 February to consider results
+NH0185,2025-10-24,Kiran Steel,Business Daily (fictional),Fire at Kiran Steel plant halts production for two weeks
+NH0186,2025-04-08,Jyoti Retail,Market Wire (fictional),SEBI issues show-cause notice to Jyoti Retail over disclosure lapses
+NH0187,2026-01-29,Jyoti Retail,Business Daily (fictional),Jyoti Retail to hold board meeting on 02 December to consider results
+NH0188,2025-09-06,Aarna Infotech,Business Daily (fictional),"Brokerage upgrades Aarna Infotech to Buy, raises target price"
+NH0189,2026-01-24,Ekta FMCG,Finance Times India (fictional),Ekta FMCG completes routine plant maintenance shutdown
+NH0190,2025-07-23,Dhruv Bank,Finance Times India (fictional),Dhruv Bank Q3 net profit jumps 56% on strong demand
+NH0191,2026-03-03,Aarna Infotech,Business Daily (fictional),Aarna Infotech completes routine plant maintenance shutdown
+NH0192,2025-07-30,Chetak Motors,Market Wire (fictional),Chetak Motors CFO resigns citing personal reasons
+NH0193,2025-12-16,Dhruv Bank,Finance Times India (fictional),Dhruv Bank to acquire rival in all-cash deal to expand market share
+NH0194,2025-11-13,Ekta FMCG,Business Daily (fictional),Ekta FMCG shares trade flat ahead of expiry
+NH0195,2025-07-03,Ganga Power,Market Wire (fictional),Ganga Power Q3 profit falls 36% as costs surge
+NH0196,2025-04-10,Aarna Infotech,Finance Times India (fictional),"Brokerage upgrades Aarna Infotech to Buy, raises target price"
+NH0197,2025-11-11,Ganga Power,Business Daily (fictional),Rating agency downgrades Ganga Power debt outlook to negative
+NH0198,2025-08-16,Himal Cement,Market Wire (fictional),Himal Cement Q1 net profit jumps 9% on strong demand
+NH0199,2025-07-11,Himal Cement,Business Daily (fictional),Himal Cement Q1 profit falls 12% as costs surge
+NH0200,2025-12-03,Himal Cement,Business Daily (fictional),Himal Cement Q3 net profit jumps 9% on strong demand
+NH0201,2026-03-22,Ekta FMCG,Market Wire (fictional),Ekta FMCG completes routine plant maintenance shutdown
+NH0202,2025-07-24,Chetak Motors,Business Daily (fictional),"Chetak Motors wins Rs 5,000 crore order from state government"
+NH0203,2025-06-24,Chetak Motors,Business Daily (fictional),Chetak Motors completes routine plant maintenance shutdown
+NH0204,2025-04-10,Ganga Power,Market Wire (fictional),Ganga Power Q4 net profit jumps 24% on strong demand
+NH0205,2025-09-03,Jyoti Retail,Market Wire (fictional),Jyoti Retail appoints new independent director
+NH0206,2026-03-07,Jyoti Retail,Business Daily (fictional),Rating agency downgrades Jyoti Retail debt outlook to negative
+NH0207,2025-09-14,Ekta FMCG,Market Wire (fictional),Ekta FMCG CFO resigns citing personal reasons
+NH0208,2026-01-15,Ekta FMCG,Finance Times India (fictional),"Brokerage upgrades Ekta FMCG to Buy, raises target price"
+NH0209,2025-12-28,Ekta FMCG,Market Wire (fictional),Ekta FMCG to hold board meeting on 05 January to consider results
+NH0210,2025-08-07,Ekta FMCG,Finance Times India (fictional),"Ekta FMCG wins Rs 11,000 crore order from state government"
+NH0211,2025-09-30,Himal Cement,Finance Times India (fictional),Fire at Himal Cement plant halts production for two weeks
+NH0212,2026-03-01,Ganga Power,Finance Times India (fictional),"Brokerage upgrades Ganga Power to Buy, raises target price"
+NH0213,2025-10-05,Himal Cement,Business Daily (fictional),"Himal Cement launches new product line, shares rise in early trade"
+NH0214,2026-02-17,Dhruv Bank,Finance Times India (fictional),Rating agency downgrades Dhruv Bank debt outlook to negative
+NH0215,2026-01-22,Kiran Steel,Finance Times India (fictional),Fire at Kiran Steel plant halts production for two weeks
+NH0216,2025-09-15,Chetak Motors,Business Daily (fictional),Chetak Motors CFO resigns citing personal reasons
+NH0217,2025-04-12,Kiran Steel,Business Daily (fictional),Fire at Kiran Steel plant halts production for two weeks
+NH0218,2025-08-16,Himal Cement,Market Wire (fictional),Himal Cement appoints new independent director
+NH0219,2025-08-09,Indra Telecom,Finance Times India (fictional),"Indra Telecom wins Rs 3,000 crore order from state government"
+NH0220,2026-02-26,Himal Cement,Business Daily (fictional),"Himal Cement launches new product line, shares rise in early trade"
+NH0221,2025-11-05,Jyoti Retail,Business Daily (fictional),Jyoti Retail CFO resigns citing personal reasons
+NH0222,2025-11-14,Aarna Infotech,Business Daily (fictional),Rating agency downgrades Aarna Infotech debt outlook to negative
+NH0223,2025-04-13,Kiran Steel,Finance Times India (fictional),"Kiran Steel launches new product line, shares rise in early trade"
+NH0224,2025-07-29,Kiran Steel,Finance Times India (fictional),Kiran Steel completes routine plant maintenance shutdown
+NH0225,2026-03-04,Aarna Infotech,Finance Times India (fictional),Aarna Infotech shares trade flat ahead of expiry
+NH0226,2025-04-24,Ganga Power,Finance Times India (fictional),Fire at Ganga Power plant halts production for two weeks
+NH0227,2026-02-25,Kiran Steel,Market Wire (fictional),Kiran Steel Q3 profit falls 37% as costs surge
+NH0228,2026-02-17,Ekta FMCG,Market Wire (fictional),Ekta FMCG Q3 net profit jumps 51% on strong demand
+NH0229,2025-10-04,Bhavya Pharma,Business Daily (fictional),Bhavya Pharma Q3 profit falls 56% as costs surge
+NH0230,2026-03-22,Ekta FMCG,Business Daily (fictional),Rating agency downgrades Ekta FMCG debt outlook to negative
+NH0231,2026-01-08,Ganga Power,Business Daily (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0232,2026-02-21,Jyoti Retail,Business Daily (fictional),"Jyoti Retail wins Rs 11,000 crore order from state government"
+NH0233,2025-10-08,Himal Cement,Business Daily (fictional),Himal Cement to acquire rival in all-cash deal to expand market share
+NH0234,2026-01-20,Aarna Infotech,Finance Times India (fictional),Aarna Infotech Q4 net profit jumps 40% on strong demand
+NH0235,2025-04-04,Himal Cement,Market Wire (fictional),SEBI issues show-cause notice to Himal Cement over disclosure lapses
+NH0236,2025-12-17,Ganga Power,Finance Times India (fictional),"Ganga Power wins Rs 4,000 crore order from state government"
+NH0237,2025-04-19,Bhavya Pharma,Business Daily (fictional),Bhavya Pharma Q2 net profit jumps 46% on strong demand
+NH0238,2025-06-13,Kiran Steel,Business Daily (fictional),Kiran Steel to acquire rival in all-cash deal to expand market share
+NH0239,2025-09-18,Ganga Power,Market Wire (fictional),"Ganga Power wins Rs 3,000 crore order from state government"
+NH0240,2025-11-30,Dhruv Bank,Finance Times India (fictional),Dhruv Bank shares trade flat ahead of expiry
+NH0241,2025-06-19,Kiran Steel,Business Daily (fictional),"Kiran Steel launches new product line, shares rise in early trade"
+NH0242,2026-03-08,Chetak Motors,Market Wire (fictional),Chetak Motors appoints new independent director
+NH0243,2026-02-19,Ekta FMCG,Market Wire (fictional),Ekta FMCG to acquire rival in all-cash deal to expand market share
+NH0244,2025-08-07,Ganga Power,Market Wire (fictional),Fire at Ganga Power plant halts production for two weeks
+NH0245,2026-03-04,Himal Cement,Business Daily (fictional),"Brokerage upgrades Himal Cement to Buy, raises target price"
+NH0246,2025-09-18,Ganga Power,Finance Times India (fictional),Ganga Power to hold board meeting on 03 December to consider results
+NH0247,2025-04-16,Dhruv Bank,Business Daily (fictional),SEBI issues show-cause notice to Dhruv Bank over disclosure lapses
+NH0248,2025-07-20,Ganga Power,Market Wire (fictional),Ganga Power to hold board meeting on 13 September to consider results
+NH0249,2025-11-15,Ekta FMCG,Market Wire (fictional),Fire at Ekta FMCG plant halts production for two weeks
+NH0250,2025-04-15,Indra Telecom,Market Wire (fictional),Indra Telecom completes routine plant maintenance shutdown
+NH0251,2025-07-19,Himal Cement,Finance Times India (fictional),Himal Cement to acquire rival in all-cash deal to expand market share
+NH0252,2025-09-02,Chetak Motors,Business Daily (fictional),Chetak Motors completes routine plant maintenance shutdown
+NH0253,2026-01-26,Dhruv Bank,Business Daily (fictional),Dhruv Bank completes routine plant maintenance shutdown
+NH0254,2025-08-02,Ekta FMCG,Market Wire (fictional),SEBI issues show-cause notice to Ekta FMCG over disclosure lapses
+NH0255,2026-02-15,Himal Cement,Market Wire (fictional),Himal Cement to hold board meeting on 01 February to consider results
+NH0256,2025-07-01,Jyoti Retail,Finance Times India (fictional),Jyoti Retail Q3 net profit jumps 53% on strong demand
+NH0257,2026-02-24,Kiran Steel,Business Daily (fictional),Kiran Steel Q3 net profit jumps 53% on strong demand
+NH0258,2026-03-08,Chetak Motors,Market Wire (fictional),Chetak Motors Q4 profit falls 16% as costs surge
+NH0259,2025-12-11,Chetak Motors,Market Wire (fictional),Chetak Motors to acquire rival in all-cash deal to expand market share
+NH0260,2025-12-15,Ganga Power,Business Daily (fictional),Ganga Power completes routine plant maintenance shutdown
+NH0261,2025-08-03,Himal Cement,Business Daily (fictional),Himal Cement Q2 net profit jumps 36% on strong demand
+NH0262,2025-08-11,Jyoti Retail,Finance Times India (fictional),Jyoti Retail appoints new independent director
+NH0263,2026-01-23,Aarna Infotech,Market Wire (fictional),Aarna Infotech appoints new independent director
+NH0264,2025-08-03,Dhruv Bank,Finance Times India (fictional),SEBI issues show-cause notice to Dhruv Bank over disclosure lapses
+NH0265,2026-02-06,Chetak Motors,Finance Times India (fictional),Fire at Chetak Motors plant halts production for two weeks
+NH0266,2025-05-22,Aarna Infotech,Finance Times India (fictional),SEBI issues show-cause notice to Aarna Infotech over disclosure lapses
+NH0267,2025-10-31,Himal Cement,Market Wire (fictional),Himal Cement Q2 profit falls 27% as costs surge
+NH0268,2025-05-31,Jyoti Retail,Business Daily (fictional),Jyoti Retail CFO resigns citing personal reasons
+NH0269,2025-12-06,Indra Telecom,Finance Times India (fictional),Indra Telecom Q4 net profit jumps 18% on strong demand
+NH0270,2026-02-22,Chetak Motors,Business Daily (fictional),Chetak Motors Q1 net profit jumps 33% on strong demand
+NH0271,2025-07-07,Himal Cement,Market Wire (fictional),"Himal Cement launches new product line, shares rise in early trade"
+NH0272,2025-05-22,Himal Cement,Business Daily (fictional),Himal Cement to acquire rival in all-cash deal to expand market share
+NH0273,2025-11-22,Kiran Steel,Business Daily (fictional),"Kiran Steel wins Rs 11,000 crore order from state government"
+NH0274,2025-07-23,Bhavya Pharma,Finance Times India (fictional),Bhavya Pharma completes routine plant maintenance shutdown
+NH0275,2025-06-25,Himal Cement,Market Wire (fictional),Himal Cement shares trade flat ahead of expiry
+NH0276,2025-12-27,Aarna Infotech,Market Wire (fictional),Aarna Infotech CFO resigns citing personal reasons
+NH0277,2025-06-17,Dhruv Bank,Finance Times India (fictional),"Brokerage upgrades Dhruv Bank to Buy, raises target price"
+NH0278,2025-06-11,Ganga Power,Business Daily (fictional),Ganga Power Q4 profit falls 31% as costs surge
+NH0279,2025-05-17,Jyoti Retail,Market Wire (fictional),Jyoti Retail Q4 net profit jumps 16% on strong demand
+NH0280,2025-11-09,Chetak Motors,Market Wire (fictional),Chetak Motors Q2 net profit jumps 8% on strong demand
+NH0281,2026-01-28,Dhruv Bank,Market Wire (fictional),Dhruv Bank Q1 profit falls 37% as costs surge
+NH0282,2025-04-15,Ganga Power,Business Daily (fictional),"Brokerage upgrades Ganga Power to Buy, raises target price"
+NH0283,2026-01-11,Himal Cement,Business Daily (fictional),Himal Cement to acquire rival in all-cash deal to expand market share
+NH0284,2026-03-23,Chetak Motors,Business Daily (fictional),SEBI issues show-cause notice to Chetak Motors over disclosure lapses
+NH0285,2025-11-27,Ganga Power,Business Daily (fictional),"Brokerage upgrades Ganga Power to Buy, raises target price"
+NH0286,2025-07-14,Dhruv Bank,Market Wire (fictional),"Brokerage upgrades Dhruv Bank to Buy, raises target price"
+NH0287,2026-02-06,Indra Telecom,Business Daily (fictional),"Indra Telecom wins Rs 11,000 crore order from state government"
+NH0288,2025-04-25,Kiran Steel,Market Wire (fictional),Kiran Steel CFO resigns citing personal reasons
+NH0289,2025-09-25,Bhavya Pharma,Finance Times India (fictional),Bhavya Pharma shares trade flat ahead of expiry
+NH0290,2025-07-10,Dhruv Bank,Market Wire (fictional),Dhruv Bank CFO resigns citing personal reasons
+NH0291,2025-04-19,Dhruv Bank,Market Wire (fictional),"Brokerage upgrades Dhruv Bank to Buy, raises target price"
+NH0292,2025-11-12,Jyoti Retail,Market Wire (fictional),SEBI issues show-cause notice to Jyoti Retail over disclosure lapses
+NH0293,2025-11-11,Himal Cement,Business Daily (fictional),"Brokerage upgrades Himal Cement to Buy, raises target price"
+NH0294,2025-07-22,Indra Telecom,Business Daily (fictional),Indra Telecom Q3 net profit jumps 15% on strong demand
+NH0295,2025-09-15,Aarna Infotech,Market Wire (fictional),Aarna Infotech Q2 profit falls 54% as costs surge
+NH0296,2025-07-28,Bhavya Pharma,Market Wire (fictional),Bhavya Pharma Q2 net profit jumps 56% on strong demand
+NH0297,2025-11-13,Bhavya Pharma,Business Daily (fictional),Bhavya Pharma to acquire rival in all-cash deal to expand market share
+NH0298,2026-03-15,Himal Cement,Market Wire (fictional),Fire at Himal Cement plant halts production for two weeks
+NH0299,2025-10-24,Aarna Infotech,Market Wire (fictional),Aarna Infotech CFO resigns citing personal reasons
+NH0300,2025-04-16,Kiran Steel,Market Wire (fictional),Kiran Steel to acquire rival in all-cash deal to expand market share

@@ -1,0 +1,19 @@
+date,tool,activity_or_prompt_summary,purpose_or_result
+2026-10-04,Copilot SDK assistance / Python,Reviewed the task brief and rubric,"Mapped app, evaluation, chart, workbook, report, and log requirements."
+2026-10-04,Copilot SDK assistance / Python,Reviewed the data dictionary and source CSV schemas,Confirmed headline and evaluation-label fields.
+2026-10-04,Copilot SDK assistance / Python,Inspected the supplied fictional headlines,"Checked row counts, company coverage, dates, and example language."
+2026-10-04,Copilot SDK assistance / Python,Prototyped a TF-IDF sentiment baseline,An earlier AI-assisted coding stage accessed the gold labels for a supervised prototype; this was discarded and is disclosed in the report.
+2026-10-04,Copilot SDK assistance / Python,Audited the first accuracy calculation,Identified that full-data predictions could overstate validation performance.
+2026-10-04,Copilot SDK assistance / Python,Revised the classifier design,"Switched to fixed, transparent rules that do not train on evaluation labels."
+2026-10-04,Copilot SDK assistance / Python,Added flexible CSV column mapping,"Supports headline, text, title, news, and article input fields."
+2026-10-04,Copilot SDK assistance / Python,Added optional gold-label evaluation,Compares completed predictions with labels only after classification.
+2026-10-04,Copilot SDK assistance / Python,Added daily company sentiment aggregation,Maps Positive/Neutral/Negative to +1/0/-1 and calculates means.
+2026-10-04,Copilot SDK assistance / Python,Added the sentiment chart,Creates a date-based daily index chart with a zero reference line.
+2026-10-04,Copilot SDK assistance / Python,Added output exports,"Produces classified rows, sentiment tables, metrics, and workbook sheets."
+2026-10-04,Copilot SDK assistance / Python,Built the Streamlit CSV input workflow,Allows users to upload headline data and optional labels.
+2026-10-04,Copilot SDK assistance / Python,Tested the sample headline input,Found and corrected input-shape handling in the earlier single-headline prototype.
+2026-10-04,Copilot SDK assistance / Python,Removed an optional report-formatting dependency,Replaced markdown table conversion so report generation does not require tabulate.
+2026-10-04,Copilot SDK assistance / Python,Ran final project checks,Re-ran the end-to-end pipeline and inspected key output rows and metric shapes.
+2026-10-04,Copilot SDK assistance / Python,Recorded evaluation-label handling,Disclosed the earlier prototype's gold-label use; the final rule-based classifier does not train on labels.
+2026-10-04,Copilot SDK assistance / Python,Prepared GitHub and Streamlit deployment instructions,Added a faculty guide and exact steps for safely publishing and deploying the app.
+2026-10-04,Copilot SDK assistance / Python,Added automated project tests and continuous integration,"Verified CSV normalization, independent evaluation, and generated workbook/report artifacts."
